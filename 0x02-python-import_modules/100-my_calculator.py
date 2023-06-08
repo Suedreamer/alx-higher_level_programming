@@ -25,4 +25,3 @@ if __name__ == "__main__":
             print("{} {} {} = {}".format(x, y, z, div(int(x), int(z))))
         elif argv[2] == '-':
             print("{} {} {} = {}".format(x, y, z, sub(int(x), int(z))))
-
